@@ -1,11 +1,22 @@
 .cis260specialblue {
-color: #205e9b 
-    
+color: #205e9b;
+background-color: #FFFFFF; 
+    opacity: 0.6;
+background-image: linear-gradient(#FFFFFF, #8FA5CE)
     
 }
 
-p {color: palegreen; font-family: monospace}
+p {color: palegreen; font-family: monospace; 
+    
+    box-shadow: 5px 5px 5px #828282;}
 
-.myfavoritelist h1 {color: darkturquoise, palevioletred}
+.myfavoritelist h1 {color: #c75b7f}
 
 #cis-special-parent {font-family: monospace}
+
+h2 {border: 2px solid #000000; 
+    border-radius: 5px;
+
+}
+
+body {background-image: imageurl(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/zblwSNT/falling-sunflowers-isolated-on-white-background_n3uaoaj8x__F0004.png)}
