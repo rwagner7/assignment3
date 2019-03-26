@@ -1,8 +1,8 @@
 .cis260specialblue {
 color: #205e9b;
 background-color: #FFFFFF; 
-    opacity: 0.6;
-background-image: linear-gradient(#FFFFFF, #8FA5CE)
+    opacity: 1;
+background-image: linear-gradient(#ffffff, #ffffff)
     
 }
 
@@ -19,4 +19,8 @@ h2 {border: 2px solid #000000;
 
 }
 
-body {background-image: imageurl(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/zblwSNT/falling-sunflowers-isolated-on-white-background_n3uaoaj8x__F0004.png)}
+body {background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/zblwSNT/falling-sunflowers-isolated-on-white-background_n3uaoaj8x__F0004.png);}
+
+a {font-size: 16px; color: rgb(17, 57, 147);
+background-color: white
+}
